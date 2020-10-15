@@ -17,3 +17,15 @@
 
       }
   }
+
+  if(!function_exists('set_route_active'))
+  {
+
+      function set_route_active($route)
+      {
+
+            return Route::is($route) ? 'active' : '';
+
+
+      }
+  }
