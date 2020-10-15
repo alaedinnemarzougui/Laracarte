@@ -131,17 +131,18 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../blog" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/resources/views/pages" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/resources/views/pages" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/resources/views/pages" />
       <recent name="$PROJECT_DIR$/resources/views/layout" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/resources/views/pages" />
     </key>
   </component>
   <component name="RunManager">
@@ -159,7 +160,7 @@
       <option name="presentableId" value="Default" />
       <updated>1602748471961</updated>
       <workItem from="1602748473051" duration="8653000" />
-      <workItem from="1602763674790" duration="8495000" />
+      <workItem from="1602763674790" duration="10259000" />
     </task>
     <servers />
   </component>
@@ -175,5 +176,9 @@
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
     <state x="2675" y="465" width="399" height="156" key="NewPhpFileDialog/72.27.1848.1053/1920.0.1920.1080@1920.0.1920.1080" timestamp="1602767587690" />
+    <state x="2369" y="175" width="1022" height="737" key="SettingsEditor" timestamp="1602774511077">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2369" y="175" width="1022" height="737" key="SettingsEditor/72.27.1848.1053/1920.0.1920.1080@1920.0.1920.1080" timestamp="1602774511077" />
   </component>
 </project>
