@@ -20,16 +20,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="badff7b2-6f7a-4abf-a00d-f4c8bd26936e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/config/laracarte.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/laracarte.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/laracarte.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/Http/Controllers/PagesController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/PagesController.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Mail/ContactMessageCreated.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Mail/ContactMessageCreated.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/composer.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/app.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/app.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/pages/contact.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/pages/contact.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/helpers.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/helpers.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/Unit/ExampleTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/tests/Unit/ExampleTest.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -198,7 +192,7 @@
       <workItem from="1602832444851" duration="4001000" />
       <workItem from="1602840689169" duration="10475000" />
       <workItem from="1602859286296" duration="5256000" />
-      <workItem from="1602924878700" duration="2417000" />
+      <workItem from="1602924878700" duration="8408000" />
     </task>
     <servers />
   </component>

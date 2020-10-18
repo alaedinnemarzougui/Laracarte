@@ -34,7 +34,7 @@ class PagesController extends Controller
 
          flashy('Nous vous repondrons dans les plus brefs delais');
 
-         return 'Done!';
+         return  redirect(route('root_path'));
 
    }
 }
