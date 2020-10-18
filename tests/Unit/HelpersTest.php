@@ -2,7 +2,8 @@
 
 namespace Tests\Unit;
 
-use PHPUnit\Framework\TestCase;
+
+use Tests\TestCase;
 
 class HelpersTest extends TestCase
 {
@@ -20,6 +21,19 @@ class HelpersTest extends TestCase
         $this->assertEquals('About | Laracarte - List of artisans' , page_title('About'));
     }
 
+    /**
+     * @test
+     */
+
+    public function test_set_route_active()
+    {
+      $this->get(route('root_path'));
+
+      $this->assertEquals('active' , set_route_active('root_path'));
+      $this->assertEquals('' , set_route_active('about_path'));
+
+
+    }
 
 
 }
