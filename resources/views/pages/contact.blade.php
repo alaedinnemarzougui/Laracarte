@@ -11,7 +11,7 @@
 
                      <form action="{{ route('contact_path') }}" method="POST">
 
-                         {{ csrf_field() }}
+                         @csrf
 
                          <div class="form-group">
                              <label for="name" class="control-label">Name</label>
