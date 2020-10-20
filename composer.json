@@ -14,6 +14,7 @@
         "guzzlehttp/guzzle": "^7.2",
         "laravel/framework": "^8.0",
         "laravel/tinker": "^2.0",
+        "laravel/ui": "^3.0",
         "mercuryseries/flashy": "^1.0"
     },
     "require-dev": {
@@ -27,6 +28,12 @@
         "optimize-autoloader": true,
         "preferred-install": "dist",
         "sort-packages": true
+    },
+    "repositories": {
+        "packagist.org": {
+            "type": "composer",
+            "url": "https://packagist.org"
+        }
     },
     "extra": {
         "laravel": {
